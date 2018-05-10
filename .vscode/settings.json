@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.vue": "vue"
+    },
+    "tslint.autoFixOnSave": true,
+    "vetur.validation.template": true,
+    "vetur.colorDecorators.enable": true,
+    "editor.tabSize": 2,
+    "editor.tabCompletion": true,
+    "editor.detectIndentation": true
+}
